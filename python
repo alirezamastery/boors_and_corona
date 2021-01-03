@@ -1,0 +1,7 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 02, 2021 - 16:17:14
+Django version 3.1.4, using settings 'codecup.settings.development'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
